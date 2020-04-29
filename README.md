@@ -11,7 +11,7 @@
 ```
 5. Buatlah fitur dari dataset, deskripsinya dan tokenizer
 ```
-	$ python create_feature.py
+    $ python create_feature.py
 ```
 6. Buatlah folder model pada di root projek
 7. Lakukan training pada fitur
